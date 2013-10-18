@@ -52,7 +52,7 @@ $GLOBALS['TL_DCA']['tl_galerie'] = array
 			'mode'                    => 1,
 			'fields'                  => array('title'),
 			'flag'                    => 1,
-                        'panelLayout'             => 'filter;search'
+                        'panelLayout'             => 'filter;search,limit'
 		),
 		'label' => array
 		(
